@@ -42,7 +42,7 @@ const App = () => {
       setLoading(false)
       setWeather(response.data)
     })
-  }, latLang)
+  }, [latLang])
 
   if (isLoading) {
     return <div>Loading</div>
