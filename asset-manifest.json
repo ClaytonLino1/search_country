@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/%7Bsearch_country%7D/static/js/main.22c80dcf.js",
+    "index.html": "/%7Bsearch_country%7D/index.html",
+    "main.22c80dcf.js.map": "/%7Bsearch_country%7D/static/js/main.22c80dcf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.22c80dcf.js"
+  ]
+}
