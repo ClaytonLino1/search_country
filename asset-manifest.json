@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/%7Bsearch_country%7D/static/js/main.8c6ddeed.js",
-    "index.html": "/%7Bsearch_country%7D/index.html",
-    "main.8c6ddeed.js.map": "/%7Bsearch_country%7D/static/js/main.8c6ddeed.js.map"
+    "main.js": "/search_country/static/js/main.8c6ddeed.js",
+    "index.html": "/search_country/index.html",
+    "main.8c6ddeed.js.map": "/search_country/static/js/main.8c6ddeed.js.map"
   },
   "entrypoints": [
     "static/js/main.8c6ddeed.js"
